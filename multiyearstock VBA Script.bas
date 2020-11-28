@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module2"
 Sub multiyearstock()
 
 Dim ws As Worksheet
